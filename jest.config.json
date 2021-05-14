@@ -1,0 +1,6 @@
+{
+  "transform": {
+    "^.+\\.(ts|tsx)$": "babel-jest"
+  },
+  "testPathIgnorePatterns": ["./.next/", "./node_modules/"]
+}
