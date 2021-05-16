@@ -14,7 +14,7 @@ export class CityWeather extends Component<CityWeatherProps, CityWeatherState> {
   public constructor(props) {
     super(props);
     this.state = {
-      weatherResult: null
+      weatherResult: null,
     };
   }
 
